@@ -771,9 +771,9 @@ const Home = () => {
               </h2>
               <div className="mt-4 md:mt-6 space-y-3">
                 {[
-                  { label: "@toirovvasad", href: "https://t.me/toirovvasad" },
+                  { label: "Telegram", href: "https://t.me/toirovvasad" },
                   {
-                    label: "github.com/toirovv",
+                    label: "GitHub",
                     href: "https://github.com/toirovv",
                   },
                   { label: "+998 93 857 33 11", href: "tel:+998938573311" },
