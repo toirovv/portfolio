@@ -776,7 +776,7 @@ const Home = () => {
                     label: "github.com/toirovv",
                     href: "https://github.com/toirovv",
                   },
-                  { label: "+998 99 999 99 99", href: "tel:+998999999999" },
+                  { label: "+998 93 857 33 11", href: "tel:+998938573311" },
                 ].map((item, i) => (
                   <div key={i}>
                     <a
